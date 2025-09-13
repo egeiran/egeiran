@@ -1,5 +1,7 @@
 # Eivind Geiran  
 
+### [Sjekk ut nettiden min (mini cv)](https://egeiran.github.io/EivindGeiran/)
+---
 🎓 Computer Technology student @ NTNU (Trondheim)  
 💻 Passionate about software engineering, entrepreneurship & building products    
 
