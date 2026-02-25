@@ -25,6 +25,7 @@
 ## 🔧 Akkurat nå bygger jeg
 - Videreutvikling av Kort Forklart (nye temaer + bedre AI-forklaringer)
 - Forbedret ML-modell for NHL-prediksjoner (mer data + bedre evalueringspipeline)
+- Utvikler en personlig AI assistent, kommer snart ut på git!
 
 ---
 
