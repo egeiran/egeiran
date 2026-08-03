@@ -17,7 +17,6 @@
 | Prosjekt | Beskrivelse | Teknologier | Link |
 |---------|-------------|--------------|------|
 | **Kort Forklart** | Webapp for å lære fag ved NTNU raskere. Multiple-choice-oppgaver + AI-forklaringer og chat. | Next.js, React, Vercel, TypeScript, Supabase, OpenAI API | https://kort-forklart.vercel.app/ |
-| **Portfolio – EivindGeiran** | Personlig nettside, en kompakt og moderne mini-CV. Hostet med GitHub Pages. | HTML, CSS, JS, GitHub Pages | https://egeiran.github.io/EivindGeiran/ |
 | **NHL ML Prediction Model** | ML-modell som predikerer sannsynligheten for hvert utfall i NHL-kamper, sjekker Norsk Tipping Oddsen API og foreslår "value bets". Inkluderer et fiktivt fond som simulerer avkastning. | Python, scikit-learn, Pandas, API-integrasjon | https://github.com/egeiran/NHL-ML-Prediction-Model |
 
 ---
