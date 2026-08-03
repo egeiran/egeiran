@@ -7,7 +7,7 @@
 
 ---
 
-### 🌐 [Nettside om meg (mini-CV)](https://egeiran.github.io/EivindGeiran/)  
+### 🌐 [Personlig portefølje](https://www.eivindgeiran.no/)  
 ### 📘 [Kort Forklart – Min største webapp](https://kort-forklart.vercel.app/)
 
 ---
